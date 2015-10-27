@@ -18,6 +18,7 @@ public class POSDiff
 {
    /**
     * Load the 2 files and compare them
+    * change made by Jinghao
     *
     * @param argv The names of the 2 file
     */
